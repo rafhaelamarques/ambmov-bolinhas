@@ -3,7 +3,6 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent">
 
-
     <Button
         android:id="@+id/btn1"
         android:layout_width="wrap_content"
@@ -29,14 +28,15 @@
         android:layout_width="wrap_content"
         android:layout_height="90dp"
         android:background="@drawable/button_rounded"
-        android:layout_toRightOf="@id/btn3"/>
+        android:layout_below="@id/btn1"/>
 
     <Button
         android:id="@+id/btn5"
         android:layout_width="wrap_content"
         android:layout_height="90dp"
         android:background="@drawable/button_rounded"
-        android:layout_below="@id/btn1"/>
+        android:layout_below="@id/btn1"
+        android:layout_toRightOf="@id/btn4"/>
 
     <Button
         android:id="@+id/btn6"
@@ -44,6 +44,7 @@
         android:layout_height="90dp"
         android:background="@drawable/button_rounded"
         android:layout_below="@id/btn4"
-        android:layout_toRightOf="@id/btn3"/>
+        android:layout_toLeftOf="@id/btn5"/>
+
 
 </RelativeLayout>
