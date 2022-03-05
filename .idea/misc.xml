@@ -3,12 +3,22 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/repos/ambmov-bolinhas/app/src/main/res/drawable/button_rounded.xml" value="0.4036458333333333" />
         <entry key="..\:/repos/ambmov-bolinhas/app/src/main/res/layout/activity_main.xml" value="0.3875" />
         <entry key="..\:/repos/ambmov-bolinhas/app/src/main/res/layout/layout1.xml" value="0.3875" />
-        <entry key="..\:/repos/ambmov-bolinhas/app/src/main/res/layout/layout2.xml" value="0.3875" />
+        <entry key="..\:/repos/ambmov-bolinhas/app/src/main/res/layout/layout10.xml" value="0.3734375" />
+        <entry key="..\:/repos/ambmov-bolinhas/app/src/main/res/layout/layout11.xml" value="0.3734375" />
+        <entry key="..\:/repos/ambmov-bolinhas/app/src/main/res/layout/layout12.xml" value="0.3734375" />
+        <entry key="..\:/repos/ambmov-bolinhas/app/src/main/res/layout/layout13.xml" value="0.3734375" />
+        <entry key="..\:/repos/ambmov-bolinhas/app/src/main/res/layout/layout14.xml" value="0.3875" />
+        <entry key="..\:/repos/ambmov-bolinhas/app/src/main/res/layout/layout2.xml" value="0.5" />
         <entry key="..\:/repos/ambmov-bolinhas/app/src/main/res/layout/layout3.xml" value="0.3875" />
         <entry key="..\:/repos/ambmov-bolinhas/app/src/main/res/layout/layout4.xml" value="0.3875" />
         <entry key="..\:/repos/ambmov-bolinhas/app/src/main/res/layout/layout5.xml" value="0.3875" />
+        <entry key="..\:/repos/ambmov-bolinhas/app/src/main/res/layout/layout6.xml" value="0.3734375" />
+        <entry key="..\:/repos/ambmov-bolinhas/app/src/main/res/layout/layout7.xml" value="0.3734375" />
+        <entry key="..\:/repos/ambmov-bolinhas/app/src/main/res/layout/layout8.xml" value="0.3734375" />
+        <entry key="..\:/repos/ambmov-bolinhas/app/src/main/res/layout/layout9.xml" value="0.3734375" />
       </map>
     </option>
   </component>

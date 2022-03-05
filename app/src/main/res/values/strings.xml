@@ -1,3 +1,10 @@
 <resources>
     <string name="app_name">Bolinhas</string>
+
+    <!--Textos-->
+    <string name="titulo">Título</string>
+    <string name="subtitulo">Subtítulo</string>
+    <string name="botao">Botão</string>
+
+    <string name="loreipsum">Lorem ipsum maecenas mauris sem quisque iaculis dictumst, porttitor tincidunt purus hac donec ut leo, accumsan orci integer risus eu curae. at metus cubilia odio aliquam feugiat luctus lorem est class, mauris euismod nam purus augue non tempor aliquet, convallis blandit amet consectetur erat senectus posuere lectus. hac nibh amet class congue dolor sapien erat eget felis et mattis at et, curae curabitur porta mi pharetra netus augue nam curabitur scelerisque quisque commodo. \n\nLaoreet vehicula cursus himenaeos maecenas tristique commodo sem euismod lectus pretium quis fames potenti libero, eget condimentum morbi scelerisque cubilia pulvinar phasellus rutrum dictumst nam nulla dictum. quis varius vel justo congue vel ut etiam scelerisque elit mollis ligula, mattis fringilla vitae viverra quis integer sodales auctor felis ligula. pretium aenean tempor vel adipiscing rutrum conubia maecenas vulputate interdum, diam dapibus tempor ipsum massa fringilla convallis porttitor eu, tellus elit est potenti tortor vestibulum facilisis fames. curae nullam eget et felis rutrum nisl feugiat dui, libero faucibus inceptos elementum ipsum a ante orci, ligula suscipit enim potenti non praesent porta. \n\nPrimis habitasse commodo nibh curabitur erat iaculis a vitae et torquent, congue potenti integer congue lacus eros vitae vivamus adipiscing.</string>
 </resources>
