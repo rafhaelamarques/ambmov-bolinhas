@@ -1,19 +1,165 @@
 <?xml version="1.0" encoding="utf-8"?>
-<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:app="http://schemas.android.com/apk/res-auto"
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    tools:context=".MainActivity">
+    tools:context=".MainActivity"
+    android:orientation="vertical">
+
+    <Button
+        android:id="@+id/layout1"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:background="@color/black"
+        android:text="@string/lay1"
+        android:textAllCaps="false"
+        android:textColor="@color/white"
+        android:layout_weight="1"
+        android:layout_marginBottom="1dp"/>
+
+    <Button
+        android:id="@+id/layout2"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:background="@color/black"
+        android:text="@string/lay2"
+        android:textAllCaps="false"
+        android:textColor="@color/white"
+        android:layout_weight="1"
+        android:layout_marginBottom="1dp"/>
+
+    <Button
+        android:id="@+id/layout3"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:background="@color/black"
+        android:text="@string/lay3"
+        android:textAllCaps="false"
+        android:textColor="@color/white"
+        android:layout_weight="1"
+        android:layout_marginBottom="1dp"/>
+
+    <Button
+        android:id="@+id/layout4"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:background="@color/black"
+        android:text="@string/lay4"
+        android:textAllCaps="false"
+        android:textColor="@color/white"
+        android:layout_weight="1"
+        android:layout_marginBottom="1dp"/>
+
+    <Button
+        android:id="@+id/layout5"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:background="@color/black"
+        android:text="@string/lay5"
+        android:textAllCaps="false"
+        android:textColor="@color/white"
+        android:layout_weight="1"
+        android:layout_marginBottom="1dp"/>
+
+    <Button
+        android:id="@+id/layout6"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:background="@color/black"
+        android:text="@string/lay6"
+        android:textAllCaps="false"
+        android:textColor="@color/white"
+        android:layout_weight="1"
+        android:layout_marginBottom="1dp"/>
+
+    <Button
+        android:id="@+id/layout7"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:background="@color/black"
+        android:text="@string/lay7"
+        android:textAllCaps="false"
+        android:textColor="@color/white"
+        android:layout_weight="1"
+        android:layout_marginBottom="1dp"/>
+
+    <Button
+        android:id="@+id/layout8"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:background="@color/black"
+        android:text="@string/lay8"
+        android:textAllCaps="false"
+        android:textColor="@color/white"
+        android:layout_weight="1"
+        android:layout_marginBottom="1dp"/>
+
+    <Button
+        android:id="@+id/layout9"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:background="@color/black"
+        android:text="@string/lay9"
+        android:textAllCaps="false"
+        android:textColor="@color/white"
+        android:layout_weight="1"
+        android:layout_marginBottom="1dp"/>
+
+    <Button
+        android:id="@+id/layout10"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:background="@color/black"
+        android:text="@string/lay10"
+        android:textAllCaps="false"
+        android:textColor="@color/white"
+        android:layout_weight="1"
+        android:layout_marginBottom="1dp"/>
+
+    <Button
+        android:id="@+id/layout11"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:background="@color/black"
+        android:text="@string/lay11"
+        android:textAllCaps="false"
+        android:textColor="@color/white"
+        android:layout_weight="1"
+        android:layout_marginBottom="1dp"/>
+
+    <Button
+        android:id="@+id/layout12"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:background="@color/black"
+        android:text="@string/lay12"
+        android:textAllCaps="false"
+        android:textColor="@color/white"
+        android:layout_weight="1"
+        android:layout_marginBottom="1dp"/>
+
+    <Button
+        android:id="@+id/layout13"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:background="@color/black"
+        android:text="@string/lay13"
+        android:textAllCaps="false"
+        android:textColor="@color/white"
+        android:layout_weight="1"
+        android:layout_marginBottom="1dp"/>
+
+    <Button
+        android:id="@+id/layout14"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:background="@color/black"
+        android:text="@string/lay14"
+        android:textAllCaps="false"
+        android:textColor="@color/white"
+        android:layout_weight="1"
+        android:layout_marginBottom="1dp"/>
 
 
-    <TextView
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:text="Bolinhas"
-        app:layout_constraintBottom_toBottomOf="parent"
-        app:layout_constraintLeft_toLeftOf="parent"
-        app:layout_constraintRight_toRightOf="parent"
-        app:layout_constraintTop_toTopOf="parent" />
-
-</androidx.constraintlayout.widget.ConstraintLayout>
+</LinearLayout>
