@@ -10,6 +10,48 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.Bolinhas">
         <activity
+            android:name=".LayoutActivity14"
+            android:exported="true" />
+        <activity
+            android:name=".LayoutActivity13"
+            android:exported="true" />
+        <activity
+            android:name=".LayoutActivity12"
+            android:exported="true" />
+        <activity
+            android:name=".LayoutActivity11"
+            android:exported="true" />
+        <activity
+            android:name=".LayoutActivity10"
+            android:exported="true" />
+        <activity
+            android:name=".LayoutActivity9"
+            android:exported="true" />
+        <activity
+            android:name=".LayoutActivity8"
+            android:exported="true" />
+        <activity
+            android:name=".LayoutActivity7"
+            android:exported="true" />
+        <activity
+            android:name=".LayoutActivity6"
+            android:exported="true" />
+        <activity
+            android:name=".LayoutActivity5"
+            android:exported="true" />
+        <activity
+            android:name=".LayoutActivity4"
+            android:exported="true" />
+        <activity
+            android:name=".LayoutActivity3"
+            android:exported="true" />
+        <activity
+            android:name=".LayoutActivity2"
+            android:exported="true" />
+        <activity
+            android:name=".LayoutActivity1"
+            android:exported="true" />
+        <activity
             android:name=".MainActivity"
             android:exported="true">
             <intent-filter>
